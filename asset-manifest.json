@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/testLive/static/css/main.ad292ef3.chunk.css",
+    "main.js": "/testLive/static/js/main.db20b56d.chunk.js",
+    "main.js.map": "/testLive/static/js/main.db20b56d.chunk.js.map",
+    "runtime-main.js": "/testLive/static/js/runtime-main.2ba3a92a.js",
+    "runtime-main.js.map": "/testLive/static/js/runtime-main.2ba3a92a.js.map",
+    "static/js/2.e869b4c6.chunk.js": "/testLive/static/js/2.e869b4c6.chunk.js",
+    "static/js/2.e869b4c6.chunk.js.map": "/testLive/static/js/2.e869b4c6.chunk.js.map",
+    "index.html": "/testLive/index.html",
+    "static/css/main.ad292ef3.chunk.css.map": "/testLive/static/css/main.ad292ef3.chunk.css.map",
+    "static/js/2.e869b4c6.chunk.js.LICENSE.txt": "/testLive/static/js/2.e869b4c6.chunk.js.LICENSE.txt",
+    "static/media/barner1.f55be5d3.jpg": "/testLive/static/media/barner1.f55be5d3.jpg",
+    "static/media/product1.607d1e06.jpg": "/testLive/static/media/product1.607d1e06.jpg",
+    "static/media/product2.30fb2ff7.jpg": "/testLive/static/media/product2.30fb2ff7.jpg",
+    "static/media/product3.24e8d3f0.jpg": "/testLive/static/media/product3.24e8d3f0.jpg",
+    "static/media/product4.2e7e2be0.jpg": "/testLive/static/media/product4.2e7e2be0.jpg",
+    "static/media/product5.c6365070.jpg": "/testLive/static/media/product5.c6365070.jpg",
+    "static/media/product6.935981cc.jpg": "/testLive/static/media/product6.935981cc.jpg",
+    "static/media/product7.b825b560.jpg": "/testLive/static/media/product7.b825b560.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba3a92a.js",
+    "static/js/2.e869b4c6.chunk.js",
+    "static/css/main.ad292ef3.chunk.css",
+    "static/js/main.db20b56d.chunk.js"
+  ]
+}
